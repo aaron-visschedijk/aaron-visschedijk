@@ -2,7 +2,7 @@
 
 I'm mostly a backend developer, currently trying out different languages/frameworks on AWS Lambda for API development. Mostly comfortable with python but currently also doing a fair bit of Rust and some Typescript here and there.
 
-### I've also published some research on 3D printed interactables, you should [check it out!](https://dl.acm.org/doi/abs/10.1145/3490149.3501314)
+##### I've also published some research on 3D printed interactables, you should [check it out!](https://dl.acm.org/doi/abs/10.1145/3490149.3501314)
 
 
 
