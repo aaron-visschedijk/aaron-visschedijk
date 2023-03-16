@@ -1,3 +1,5 @@
+<img align="right" width="200" height="300" src="/me-on-tree.jpg">
+
 ### Hi there 👋 I'm Aaron
 
 Currently trying out different languages/frameworks on AWS Lambda for API development. Mostly comfortable with python but currently also doing a fair bit of Rust and some TypeScript here and there.
