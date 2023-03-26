@@ -8,7 +8,7 @@ Outside of programming, I love traveling, going for long hikes or enjoying some 
  
 ##### I've also published some research on 3D printed interactables, you should totally [check it out!](https://dl.acm.org/doi/abs/10.1145/3490149.3501314)
 
-
+##### If you're interested in hiring me, [download](https://github.com/aaron-visschedijk/react-resume-builder/raw/master/example/react-resume.pdf) or [view ](https://github.com/aaron-visschedijk/react-resume-builder/blob/master/example/react-resume.pdf) my resume!
 
 
 <!--
